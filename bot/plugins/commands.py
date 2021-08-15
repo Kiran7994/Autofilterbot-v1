@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '❌channel❌', url="https://t.me/unlimtedmovie00"
+                                    '💢channel💢', url="https://t.me/unlimtedmovie00"
                                 )
                         ]
                     ]
@@ -47,12 +47,12 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('🔰JOIN IN OUR GROUP🔰', url='https://t.me/unlimtedmovie00'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('🔰JOIN IN OUR GROUP🔰', url='https://t.me/filmgallery0999'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Kiran7994/Autofilterbot-v1')
     ],[
         InlineKeyboardButton('📢channel📢', url='https://t.me/filmgallery0999')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('💯help', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)

@@ -51,7 +51,7 @@ async def start(bot, update):
         InlineKeyboardButton('🔰JOIN IN OUR GROUP🔰', url='https://t.me/filmgallery0999'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Kiran7994/Autofilterbot-v1')
     ],[
-        InlineKeyboardButton('📢channel📢', url='https://t.me/filmgallery0999')
+        InlineKeyboardButton('📢channel📢', url='https://t.me/Unlimtedmovie00')
     ],[
         InlineKeyboardButton('💯help', callback_data="help")
     ]]
